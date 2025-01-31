@@ -20,8 +20,11 @@ button.position(width/2, height/2);
 button.mousePressed(() =>{
 	Let r = random(emojis);
 	image(r, random(width), random(hight));
-
 }
 ```
 
-I coded 
+# Making my own Code using User Input Events
+
+I wanted to bring back my fish code in a new way for this workshop. I had the idea that the fish's speed could be manipulated by a slider, and an aspect of the fish's appearence could be dictated by the user as well.
+
+I started off by coding (OMG NO WAY)
