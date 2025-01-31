@@ -127,6 +127,7 @@ fishSpeedSlider = createSlider(1, 6, 3.25);
 I wanted to make a dropdown menu that would allow the user to select which Beatle they liked the most for thier face to be put on the fish. I tied this into the fish code I had so far.
 
 The images I had selected:
+
 ![ringo cutout](https://github.com/user-attachments/assets/276e1d62-d657-4036-8dd9-d3f958978b1c)
 ![george cutout](https://github.com/user-attachments/assets/1ef6aad3-4701-47ad-8030-95ededec1343)
 ![john cutout](https://github.com/user-attachments/assets/45f7aeb2-856c-49b1-8d4d-68c0ff281e54)
