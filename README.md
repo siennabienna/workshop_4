@@ -161,7 +161,7 @@ This would allow the face of each Beatle to appear.
 
 # Using Spans for Text
 
-One issue I had whilst making this was trying to get text to appear on the fish screen. It didn't to work in any part of the code, so I decided to try writing it using a span instead of a text. This worked very well, and made it pretty easy to align with the dropdown menu.
+One issue I had whilst making this was trying to get text to appear on the fish screen. I decided to try writing it using a span instead of a text, which sits on top of the canvas and therefore won't get covered by the fish. This worked very well, and made it pretty easy to align with the dropdown menu.
 
 ```js
 beatlesFaveSpan = createSpan("Select your Favourite Beatle");
