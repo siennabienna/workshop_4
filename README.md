@@ -26,7 +26,7 @@ button.mousePressed(() =>{
 
 # Making my own Code using User Input Events
 
-I wanted to bring back my fish code in a new way for this workshop. I had the idea that the fish's speed could be manipulated by a slider, and an aspect of the fish's appearence could be dictated by the user as well.
+I wanted to bring back my fish code in a new way for this workshop. I had the idea that the fish's speed could be manipulated by a slider, and an aspect of the fish's appearance could be dictated by the user as well.
 
 I decided that I wanted there to be a screen that asked the user if they wanted to see the fish, using buttons. I then wanted it to open up on the fish screen which would have the slider for fish speed, but would also have a dropdown menu that would allow the user to put the face of a Beatle over the fishes.
 
@@ -48,7 +48,7 @@ function setup() {
     buttonYes.hide()
     buttonNo.hide()
 ```
-The setup for the buttons. I wrote "Would you like to be under the sea?" on the mainscreen menu as a reference to the Beatles' 'Octopuses Garden' song that I felt was quite relevent.
+The setup for the buttons. I wrote "Would you like to be under the sea?" on the mainscreen menu as a reference to the Beatles' 'Octopuses Garden' song that I felt was quite relevant.
 
 ```js
 function homeScreen() {
